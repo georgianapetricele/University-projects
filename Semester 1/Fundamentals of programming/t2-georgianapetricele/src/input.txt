@@ -1,0 +1,6 @@
+1,Anna,I will implement layered architecture
+2,John,The program is layered
+3,Betty,I understand layered architecture
+4,Georgi,I do the test
+5,Vlad,program
+10,jkcdnckje,cejcks

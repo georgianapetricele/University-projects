@@ -1,0 +1,8 @@
+In year 2, 0 people starved.
+0 people came to the city
+City population is 100
+City owns 3200 acres of land
+Harvest was 3 per acre
+Rats ate 200 units
+Land price is 17 per acre
+Grain stocks are -900 units

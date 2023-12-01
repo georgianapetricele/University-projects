@@ -1,0 +1,1 @@
+Learn C++,Geeks for geeks,10,10,11000,https://www.geeksforgeeks.org/c-plus-plus/

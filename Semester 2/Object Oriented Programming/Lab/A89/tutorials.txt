@@ -1,0 +1,6 @@
+Learn C++,Geeks for geeks,10,10,11000,https://www.geeksforgeeks.org/c-plus-plus/
+Learn Java,Geeks ,10,130,5000,https://www.geeksforgeeks.org/java/
+Learn SQL,W3Schools,10,11,100,https://www.w3schools.com/sql/default.asp
+Learn C,Geeks for geeks,10,810,55000,https://www.geeksforgeeks.org/c-sharp/
+Learn React,Programiz,123,23,12,https://www.w3schools.com/react/default.asp
+Learn HTML,W3Schools,10,11,100,https://www.w3schools.com/html/default.asp

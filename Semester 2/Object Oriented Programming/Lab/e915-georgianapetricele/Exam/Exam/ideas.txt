@@ -1,0 +1,3 @@
+Idea1,do this,proposed,Mary,3
+Idea9,do that,accepted,John,2
+Idea3,do again,proposed,Me too,1

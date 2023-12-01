@@ -1,0 +1,4 @@
+Mary,phd student
+John,student
+Andrew,senior
+Me too,senior

@@ -1,0 +1,5 @@
+Learn C++,Geeks for geeks,100,10,200000,https://www.geeksforgeeks.org/c-plus-plus/
+Learn Python,Geeks for geeks,23,100,5000,https://www.geeksforgeeks.org/python-programming-language/
+Learn Java,Geeks for geeks,300,10,10000,https://www.geeksforgeeks.org/java/
+Learn HTML,Geeks for geeks,10,20,10000,https://www.geeksforgeeks.org/c-plus-plus/
+Learn Javascript,Geeks for geeks,30,20,10000,https://www.geeksforgeeks.org/c-plus-plus/

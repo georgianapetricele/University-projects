@@ -1,0 +1,151 @@
+Program state
+Exe Stack: 
+(string varf;(varf=test.in;(OpenReadfile(varf);(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+string varf
+(varf=test.in;(OpenReadfile(varf);(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(varf=test.in;(OpenReadfile(varf);(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))))))
+ 
+Sym Table: {varf=} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+varf=test.in
+(OpenReadfile(varf);(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))))))
+ 
+Sym Table: {varf=} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(OpenReadfile(varf);(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))))))
+ 
+Sym Table: {varf=test.in} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+OpenReadfile(varf)
+(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))))
+ 
+Sym Table: {varf=test.in} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(int varc;(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))))
+ 
+Sym Table: {varf=test.in} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+int varc
+(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))))
+ 
+Sym Table: {varf=test.in} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(ReadFile(varf, varc);(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))))
+ 
+Sym Table: {varf=test.in, varc=0} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+ReadFile(varf, varc)
+(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))
+ 
+Sym Table: {varf=test.in, varc=0} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(print(varc);(ReadFile(varf, varc);(print(varc);CloseReadfile(varf))))
+ 
+Sym Table: {varf=test.in, varc=15} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+print(varc)
+(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))
+ 
+Sym Table: {varf=test.in, varc=15} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(ReadFile(varf, varc);(print(varc);CloseReadfile(varf)))
+ 
+Sym Table: {varf=test.in, varc=15} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [15] 
+
+Program state
+Exe Stack: 
+ReadFile(varf, varc)
+(print(varc);CloseReadfile(varf))
+ 
+Sym Table: {varf=test.in, varc=15} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [15] 
+
+Program state
+Exe Stack: 
+(print(varc);CloseReadfile(varf))
+ 
+Sym Table: {varf=test.in, varc=20} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [15] 
+
+Program state
+Exe Stack: 
+print(varc)
+CloseReadfile(varf)
+ 
+Sym Table: {varf=test.in, varc=20} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [15] 
+
+Program state
+Exe Stack: 
+CloseReadfile(varf)
+ 
+Sym Table: {varf=test.in, varc=20} 
+File Table: {test.in=java.io.BufferedReader@2328c243}
+Output Console: [15, 20] 
+
+Program state
+Exe Stack: 
+ 
+Sym Table: {varf=test.in, varc=20} 
+File Table: {}
+Output Console: [15, 20] 
+

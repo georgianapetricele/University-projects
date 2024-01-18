@@ -1,5 +1,5 @@
-# University projects
-### First year
+# University projects :woman_technologist:
+### First year 
 - Semester 1
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%201/Fundamentals%20of%20programming">Fundamentals of programming</a>
 - Semester 2

@@ -1,0 +1,33 @@
+%a. Determine the successor of a number represented as digits in a list
+%
+%
+%
+
+%successor(l1..ln,C) = [], if n=0
+%                    = l1+1, if n=1 and l1!=9
+%                    =0, if n=1 and l1=9 [1,2,9]
+%                    = 0 +succesor(l2..ln,1), if l1=9
+%                    = l1+C + succesor(l2..ln,0)
+
+successor([], _, []) :- !.
+successor([0], 1, [1]) :- !.
+successor([N], 0, [NR]) :- N=\=9,
+    NR is N + 1 , !.
+successor([9],1,[0]).
+successor([9|T],1, [0|R]) :-
+    successor(T, 1, R), !.
+successor([H|T], 0, [HR|R]) :-
+    successor(T, C, R),
+    HR is H + C.
+
+%b.heterList(l1..ln) = [], if n=0
+%                    = successor(l1) + heterList(l2..ln), is_list(l1)
+%                    = l1+heterList(l2..ln)
+%
+
+heterList([],[]).
+heterList([H|T],[S|R]):- is_list(H),
+    successor(H,0,S),
+    heterList(T,R).
+heterList([H|T],[H|R]):-
+    heterList(T,R).

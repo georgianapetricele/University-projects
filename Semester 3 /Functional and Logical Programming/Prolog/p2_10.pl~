@@ -1,0 +1,36 @@
+%a. For a list of integer numbers, define a predicate to write twice in
+% list every prime number
+
+%prime(n,div) = false, if n<2
+%             = true, if n=2
+%             = true, if n%div!=0 and div>=n/2
+%             = prime(n,div+1), if n%div!=0 and div<n/2
+%             =false otherwise
+%
+%flow model: prime(i,i)
+%
+%
+
+prime(N,_):- N=:=2.
+prime(N,Div):-
+    N mod Div =\= 0,
+    N >2,
+    Div >= N/2,!.
+prime(N,Div):-
+    N mod Div =\= 0,
+    Div < N/2,
+    Div2 is Div+1,
+    prime(N,Div2).
+
+%write2(l1..ln) = [],if n=0
+%               = l1 + l1 +write(l2..ln), if prime(l1) =true
+%               =l1+write(l2..ln), otherwise
+%
+%
+
+write2([],[]).
+write2([H|T],[H,H|Res]):-
+    prime(H),
+    write2(T,Res).
+write2([H|T],[H|Res]):-
+    write2(T,Res).

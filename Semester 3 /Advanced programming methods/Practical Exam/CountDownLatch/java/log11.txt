@@ -1,0 +1,3460 @@
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) a;(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(a, 0);(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(a, 0)
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(a, 0)
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(a, 0)
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) a;(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(Ref(int) a;(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 6
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) a;(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) b;(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) b
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(a, 0);(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(a, 0)
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(0, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewHeap(b, 0);(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewHeap(b, 0)
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(0, int), v=0} 
+File Table: {}
+Heap Table: {1->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(a, 1);(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(a, 1)
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->0; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(WriteHeap(b, 2);( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+WriteHeap(b, 2)
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->0; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(a) < ReadHeap(b)?100:200 ;(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(a) < ReadHeap(b)?100:200 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(a) < ReadHeap(b)) THEN(v=100)ELSE(v=200))
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=100
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=0} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v)))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+( v=ReadHeap(b)-2 > ReadHeap(a)?100:200 ;print(v))
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ v=ReadHeap(b)-2 > ReadHeap(a)?100:200 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(ReadHeap(b)-2 > ReadHeap(a)) THEN(v=100)ELSE(v=200))
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+v=200
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=100} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {a=(1, int), b=(2, int), v=200} 
+File Table: {}
+Heap Table: {1->1; 2->2; }
+Output Console: [100, 200] 
+Latch Table: {}
+

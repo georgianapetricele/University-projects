@@ -1,0 +1,27 @@
+%15.
+% a. Write a predicate to transform a list in a set, considering the
+% first %occurrence.
+
+%to_set(l1..ln) = [],if n=0
+%               = l1, if n=1
+%               = l1 + to_set(rem_occ(l1..ln,l1))
+%
+%
+%
+% rem_occ(l1..ln,e) = [], if n=0
+%                   = rem_occ(l2..ln,e), if l1=e
+%                   = 11 + rem_occ(l2..ln,e), otherwise
+%
+%
+rem_occ([],_,[]).
+rem_occ([H|T],E,Res):- H=:=E,
+    rem_occ(T,E,Res).
+rem_occ([H|T],E,[H|Res]):- H=\=E,
+    rem_occ(T,H,Res).
+
+
+to_set([],[]).
+to_set([H|T],[H|Res]):-
+    rem_occ(T,H,Newl),
+    to_set(Newl,Res).
+

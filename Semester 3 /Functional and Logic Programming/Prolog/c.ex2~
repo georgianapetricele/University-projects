@@ -1,0 +1,38 @@
+
+%combinations of K elements from a list (n elems, 1<=k<=n)
+%comb(l1..ln,k) = l1, if k=1, n>=1
+%               = comb(l2..ln,k), k>=1
+%               = l1 U comb(l2..ln,k-1), k>1
+% (i,i,o)
+
+comb([E|_],1,[E]).
+comb([_|T],K,R):-
+   comb(T,K,R).
+comb([H|T],K,[H|R]):-
+   K>1,
+   K1 is K-1,
+   comb(T,K1,R).
+
+%conditionList
+condition2([H]).
+condition2([H1,H2|T]):-
+    D is H2-H1,
+    D mod 2=:=0,
+    condition2([H2|T]).
+
+%Determines one solution
+%L:list, RP:list, resulted permutation
+%(i,o)
+onesol(L,K,RC):-
+    comb(L,K,RC),
+    condition2(RC).
+
+% Determines all solutions for our problem using the predefines
+% predicated FINDALL
+% allsol(L:list,R:list results)
+% (i,o)
+allsol(L,K,R):-
+    findall(X,onesol(L,K,X),R).
+
+
+

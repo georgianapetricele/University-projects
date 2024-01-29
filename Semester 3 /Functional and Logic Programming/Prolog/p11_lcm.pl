@@ -1,0 +1,50 @@
+%1.
+% a. Write a predicate to determine the lowest common multiple of a list
+% formed from integer numbers.
+% b. Write a predicate to add a value v after 1-st, 2-nd, 4-th, 8-th, …
+% element in a list.
+
+
+%a.
+%lcmList(l1,..,ln) =l1, if n=1
+%              =lcm(l1,lcmList(l2,..,ln)), otherwise
+%
+% lcm(a,b) = a*b/gcd(a,b)
+%
+% gdc(a,b)=a, if b=0
+%         =gcd(b,a%b), otherwise
+%
+gcd(0, B, B) :- !.
+gcd(A, 0, A) :- !.
+gcd(A, B, R) :-
+    A1 is A mod B,
+    gcd(B, A1, R), !.
+
+lcm(X,Y,LCM):-
+    gcd(X,Y,GCD),
+    LCM is X*Y//GCD.
+
+%lcmList(A,A).
+%lcmList([H1,H2|T],R):-
+ %   lcm(H1,H2,Rez).
+  %lcmList([Rez|T],R).
+
+lcm_of_list([],1) :- !.
+lcm_of_list([H|T],LCM) :- lcm_of_list(T,LCM2), lcm(H,LCM2,LCM).
+
+
+%b.
+%addPow2(l1,..ln,V,pos,index) = [], if n=0
+%                     l1 U addPow2(l2,..,ln,pos,index+1), if index!=pos
+%                     l1,V U addPow2(l2..ln,poz*2,index+1), if index=pos
+
+addPow2([],_,_,_,[]).
+addPow2([H|T],V,Pos,Ind,[H,V|R]):- Pos =:= Ind,
+    New_pos is Pos*2,
+    New_ind is Ind+1,
+    addPow2(T,V,New_pos,New_ind,R).
+addPow2([H|T],V,Pos,Ind,[H,R]):- Pos =\= Ind,
+    New_ind is Ind+1,
+    addPow2(T,V,Pos,New_ind,R).
+
+

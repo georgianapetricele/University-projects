@@ -10,4 +10,4 @@
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Advanced%20programming%20methods">Advanced Programming Methods</a>
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Databases">Databases</a>
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Computer%20Networks">Computer Networks</a>
-   - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Logical%20and%20Functional%20Programming">Logical and Functional Programming</a>
+   - <a href="Semester 3 /Functional and Logic Programming">Logical and Functional Programming</a>

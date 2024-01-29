@@ -1,0 +1,187 @@
+Program state
+Id: 2
+Exe Stack: 
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int a
+(int b;(a=2+3*5;(b=a+1;print(b))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int a
+(int b;(a=2+3*5;(b=a+1;print(b))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(int b;(a=2+3*5;(b=a+1;print(b))))
+ 
+Sym Table: {a=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(int b;(a=2+3*5;(b=a+1;print(b))))
+ 
+Sym Table: {a=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int b
+(a=2+3*5;(b=a+1;print(b)))
+ 
+Sym Table: {a=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int b
+(a=2+3*5;(b=a+1;print(b)))
+ 
+Sym Table: {a=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(a=2+3*5;(b=a+1;print(b)))
+ 
+Sym Table: {a=0, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(a=2+3*5;(b=a+1;print(b)))
+ 
+Sym Table: {a=0, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+a=2+3*5
+(b=a+1;print(b))
+ 
+Sym Table: {a=0, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+a=2+3*5
+(b=a+1;print(b))
+ 
+Sym Table: {a=0, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(b=a+1;print(b))
+ 
+Sym Table: {a=17, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(b=a+1;print(b))
+ 
+Sym Table: {a=17, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+b=a+1
+print(b)
+ 
+Sym Table: {a=17, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+b=a+1
+print(b)
+ 
+Sym Table: {a=17, b=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(b)
+ 
+Sym Table: {a=17, b=18} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(b)
+ 
+Sym Table: {a=17, b=18} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {a=17, b=18} 
+File Table: {}
+Heap Table: {}
+Output Console: [18] 
+

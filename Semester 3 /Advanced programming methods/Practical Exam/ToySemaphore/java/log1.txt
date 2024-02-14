@@ -1,0 +1,194 @@
+Program state
+Exe Stack: 
+(int v;(v=2;print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+int v
+(v=2;print(v))
+ 
+Sym Table: {} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(v=2;print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+v=2
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+ 
+Sym Table: {v=2} 
+File Table: {}
+Output Console: [2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=2;print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=2;print(v))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=2;print(v))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=2;print(v))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=2;print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=2;print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=2;print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=2
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=2
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=2
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [2] 
+

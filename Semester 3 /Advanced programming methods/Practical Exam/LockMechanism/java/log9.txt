@@ -1,0 +1,2621 @@
+Program state
+Exe Stack: 
+(int v;(v=4;(while(v > 0){(print(v);v=v-1)};print(v))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1, 0] 
+
+Program state
+Id: 0
+Exe Stack: 
+(int v;(v=4;(while(v > 0){(print(v);v=v-1)};print(v))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1, 0] 
+
+Program state
+Id: 0
+Exe Stack: 
+(int v;(v=4;(while(v > 0){(print(v);v=v-1)};print(v))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 0
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1, 0] 
+
+Program state
+Id: 9
+Exe Stack: 
+(int v;(v=4;(while(v > 0){(print(v);v=v-1)};print(v))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 9
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1, 0] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=4;(while(v > 0){(print(v);v=v-1)};print(v))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=4;(while(v > 0){(print(v);v=v-1)};print(v)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=4
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(while(v > 0){(print(v);v=v-1)};print(v))
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=4} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(v);v=v-1)
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v-1
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(v > 0){(print(v);v=v-1)}
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [4, 3, 2, 1, 0] 
+

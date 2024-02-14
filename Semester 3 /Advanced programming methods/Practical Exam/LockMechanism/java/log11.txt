@@ -1,0 +1,2496 @@
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v1;(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int q;(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int q
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int q
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int q
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 20);(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 20)
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 20)
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 20)
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 30);(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 30)
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 30)
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 30)
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {1->20; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(x);(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(x)
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(x)
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(x)
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=0, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))));(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))))
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))))
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))))
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewLock(q);(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))));(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(q)
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))))
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(q)
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))))
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+NewLock(q)
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+fork((Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))))
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))));(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)*10);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(Lock(x);(WriteHeap(v1, ReadHeap(v1)-1);unlock(x)))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))))
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))))
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))))
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@3380b272;(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)-1);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))));(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@3380b272
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)-1)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))))
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@3380b272
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)-1)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))))
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@3380b272
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)-1)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+fork((Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))))
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@59dfe636;(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+Lock(x)
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)*10);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+(Lock(q);(WriteHeap(v2, ReadHeap(v2)+5);unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=3, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@59dfe636
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@59dfe636
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@59dfe636
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);unlock(x))
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@60d64379;(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->19; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@60d64379
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@60d64379
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@60d64379
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+unlock(x)
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->30; }
+Output Console: [] 
+Lock Table: {1=2, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {q=0, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+(Model.statement.NopStmt@336a81a4;(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 4
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=4}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@336a81a4
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@336a81a4
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 4
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Model.statement.NopStmt@336a81a4
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+Lock(q)
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(x);(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)+5);unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(x)
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)+5)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(x)
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)+5)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(x)
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)+5)
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->300; }
+Output Console: [] 
+Lock Table: {1=-1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v1));(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q)))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 5
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=5}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v1))
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v1))
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 5
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v1))
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(unlock(x);(Lock(q);(print(ReadHeap(v2));unlock(q))))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(x)
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(x)
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(x)
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(Lock(q);(print(ReadHeap(v2));unlock(q)))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(q)
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(q)
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+Lock(q)
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+(print(ReadHeap(v2));unlock(q))
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v2))
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v2))
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v2))
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190, 305] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190, 305] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+unlock(q)
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190, 305] 
+Lock Table: {1=-1, 2=1}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190, 305] 
+Lock Table: {1=-1, 2=-1}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {q=2, x=1, v1=(1, int), v2=(2, int)} 
+File Table: {}
+Heap Table: {1->190; 2->305; }
+Output Console: [190, 305] 
+Lock Table: {1=-1, 2=-1}
+

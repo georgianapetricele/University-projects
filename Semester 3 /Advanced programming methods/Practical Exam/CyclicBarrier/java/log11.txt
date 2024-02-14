@@ -1,0 +1,1241 @@
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v1
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v2;(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v2
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(Ref(int) v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v3
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v3
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+Ref(int) v3
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int cnt
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int cnt
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+int cnt
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 2)
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 2)
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v1, 2)
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(0, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v2, 3);(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 3)
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 3)
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v2, 3)
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(0, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(new(v3, 4);(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v3, 4)
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v3, 4)
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+new(v3, 4)
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(0, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(NewBarrier(cnt, ReadHeap(v2));(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewBarrier(cnt, ReadHeap(v2))
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewBarrier(cnt, ReadHeap(v2))
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+NewBarrier(cnt, ReadHeap(v2))
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=0, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))));(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))))
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))))
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))))
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+(Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+(Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))));(Await(cnt);print(ReadHeap(v3))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+(Await(cnt);(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))))
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))))
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+fork((Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))))
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 2
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[]}
+
+Program state
+Id: 1
+Exe Stack: 
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+(Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+(Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+(Await(cnt);print(ReadHeap(v3)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+(WriteHeap(v1, ReadHeap(v1)*10);print(ReadHeap(v1)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+(Await(cnt);(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+Await(cnt)
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+Await(cnt)
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+Await(cnt)
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 2
+Exe Stack: 
+WriteHeap(v1, ReadHeap(v1)*10)
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 3
+Exe Stack: 
+Await(cnt)
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->2; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2]}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 2
+Exe Stack: 
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 2
+Exe Stack: 
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 1
+Exe Stack: 
+print(ReadHeap(v3))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 2
+Exe Stack: 
+print(ReadHeap(v1))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2))))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->3; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+(WriteHeap(v2, ReadHeap(v2)*10);print(ReadHeap(v2)))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+WriteHeap(v2, ReadHeap(v2)*10)
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->30; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->300; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->300; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+print(ReadHeap(v2))
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->300; 3->4; }
+Output Console: [4, 20] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->300; 3->4; }
+Output Console: [4, 20, 300] 
+Barrier Table: {1=3=[2, 1, 3]}
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {cnt=1, v1=(1, int), v2=(2, int), v3=(3, int)} 
+File Table: {}
+Heap Table: {1->20; 2->300; 3->4; }
+Output Console: [4, 20, 300] 
+Barrier Table: {1=3=[2, 1, 3]}
+

@@ -1,0 +1,1058 @@
+Program state
+Id: 1
+Exe Stack: 
+(bool b;(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100, 200] 
+
+Program state
+Id: 2
+Exe Stack: 
+(bool b;(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+bool b
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(int c;(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+int c
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(b=true;( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c)))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+b=true
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=false, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=b?100:200 ;(print(c);( c=false?100:200 ;print(c))))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=b?100:200 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(b) THEN(c=100)ELSE(c=200))
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=100
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(c);( c=false?100:200 ;print(c)))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+( c=false?100:200 ;print(c))
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+ c=false?100:200 
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+(IF(false) THEN(c=100)ELSE(c=200))
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+c=200
+print(c)
+ 
+Sym Table: {b=true, c=100} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(c)
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100] 
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {b=true, c=200} 
+File Table: {}
+Heap Table: {}
+Output Console: [100, 200] 
+

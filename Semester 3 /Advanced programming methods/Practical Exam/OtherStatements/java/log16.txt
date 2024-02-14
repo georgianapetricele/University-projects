@@ -1,0 +1,6140 @@
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=20;(Wait(10);print(v*10))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 200] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=20;(Wait(10);print(v*10))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 200] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=20;(Wait(10);print(v*10))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 200] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=30;(Wait(10);print(v*10))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=30;(Wait(10);print(v*10)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=30
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=30
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=30
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*10))
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=30} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 300] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=20;(Wait(10);print(v*20))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=20;(Wait(10);print(v*20)))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=20
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Wait(10);print(v*20))
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(10)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(10);Wait(9))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(10)
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(9)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(9);Wait(8))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(9)
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(8)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(8);Wait(7))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(8)
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(7)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(7);Wait(6))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(7)
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(6)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(6);Wait(5))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(6)
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(5)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(5);Wait(4))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(5)
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(4)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(4);Wait(3))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(4)
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(3)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(3);Wait(2))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(3)
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(2)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(2);Wait(1))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(2)
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(1)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(print(1);Wait(0))
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(1)
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+Wait(0)
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*20)
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=20} 
+File Table: {}
+Heap Table: {}
+Output Console: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 400] 
+

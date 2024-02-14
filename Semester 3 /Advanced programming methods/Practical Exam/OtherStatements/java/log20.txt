@@ -1,0 +1,1519 @@
+Program state
+Id: 1
+Exe Stack: 
+(int v;(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+int v
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(v=0;(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=0
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=0
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=0
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3);(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3)
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3)
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+Repeat((fork((print(v);v=v-1));v=v+1)) until (v == 3)
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+((fork((print(v);v=v-1));v=v+1);while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)})
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+((fork((print(v);v=v-1));v=v+1);while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)})
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+((fork((print(v);v=v-1));v=v+1);while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)})
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 2
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 2
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 2
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 2
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {v=-1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 2
+Exe Stack: 
+ 
+Sym Table: {v=-1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 3
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 3
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 3
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+(fork((print(v);v=v-1));v=v+1)
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 3
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 3
+Exe Stack: 
+ 
+Sym Table: {v=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+fork((print(v);v=v-1))
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+v=v+1
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+(print(v);v=v-1)
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+while(!(v == 3)){(fork((print(v);v=v-1));v=v+1)}
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 4
+Exe Stack: 
+print(v)
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 4
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 4
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int x;(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 4
+Exe Stack: 
+v=v-1
+ 
+Sym Table: {v=2} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 4
+Exe Stack: 
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 4
+Exe Stack: 
+ 
+Sym Table: {v=1} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int x
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int y;(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int y
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int y
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int y
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int z;(int w;(x=1;(y=2;(z=3;(w=4;print(v*10)))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int z
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int z
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int z
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(int w;(x=1;(y=2;(z=3;(w=4;print(v*10))))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int w
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int w
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+int w
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(x=1;(y=2;(z=3;(w=4;print(v*10)))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+x=1
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+x=1
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+x=1
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=0, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(y=2;(z=3;(w=4;print(v*10))))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+y=2
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+y=2
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+y=2
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=0, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(z=3;(w=4;print(v*10)))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+z=3
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+z=3
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+z=3
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=0} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+(w=4;print(v*10))
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+w=4
+print(v*10)
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+w=4
+print(v*10)
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+w=4
+print(v*10)
+ 
+Sym Table: {v=3, w=0, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=3, w=4, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=3, w=4, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+print(v*10)
+ 
+Sym Table: {v=3, w=4, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=3, w=4, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2, 30] 
+
+Program state
+Id: 1
+Exe Stack: 
+ 
+Sym Table: {v=3, w=4, x=1, y=2, z=3} 
+File Table: {}
+Heap Table: {}
+Output Console: [0, 1, 2, 30] 
+

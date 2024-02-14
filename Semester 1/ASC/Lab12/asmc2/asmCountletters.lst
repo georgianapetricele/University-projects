@@ -1,0 +1,61 @@
+     1                                  bits 32 ; assembling for the 32 bits architecture
+     2                                  
+     3                                  ;Count the letters from each word and print the numbers on the screen.
+     4                                    
+     5                                  global _asmCountletters 
+     6                                  
+     7                                  ; declare external functions needed by our program
+     8                                  
+     9                                  
+    10                                  ; our data is declared here (the variables needed by our program)
+    11                                  segment data public data use32
+    12 00000000 00000000                    adresa_sir_cuv dd 0
+    13                                      
+    14                                  
+    15                                  ; codul scris in asamblare este dispus intr un segment public, posibil a fi partajat cu alt cod extern
+    16                                  segment code public code use32
+    17                                  
+    18                                      _asmCountletters:
+    19                                          ;Codul de intrare
+    20 00000000 55                              push ebp
+    21 00000001 89E5                            mov ebp, esp
+    22                                          
+    23 00000003 8B4508                          mov eax, [ebp+8]
+    24 00000006 A3[00000000]                    mov [adresa_sir_cuv], eax
+    25 0000000B 8B4D0C                          mov ecx, [ebp +12]
+    26 0000000E BE[00000000]                    mov esi, adresa_sir_cuv
+    27 00000013 BB00000000                      mov ebx, 0
+    28                                          repeta:
+    29                                              ;vad daca e litera
+    30                                              ;if c >'A' elif c<'Z' elif c>'a' elif c<'z'
+    31 00000018 8A3E                                mov bh, [esi]
+    32 0000001A 46                                  inc esi
+    33 0000001B 80FF41                              cmp bh, 'A'
+    34 0000001E 7302                                jae litera_mare
+    35 00000020 7217                                jb not_letter
+    36                                              litera_mare:
+    37 00000022 80FF5A                                  cmp bh, 'Z'
+    38 00000025 7610                                    jbe e_litera
+    39 00000027 7700                                    ja litera_mica1
+    40                                              litera_mica1:
+    41 00000029 80FF61                                  cmp bh, 'a'
+    42 0000002C 7302                                    jae litera_mica_2
+    43 0000002E 7209                                    jb not_letter
+    44                                              litera_mica_2:
+    45 00000030 80FF7A                                  cmp bh, 'z'
+    46 00000033 7602                                    jbe e_litera
+    47 00000035 7702                                    ja not_letter
+    48                                              e_litera:
+    49 00000037 FEC3                                    inc bl
+    50                                              not_letter:
+    51 00000039 E2DD                            loop repeta
+    52                                          the_end:
+    53                                          
+    54                                          ;Iesire
+    55                                          
+    56 0000003B B800000000                      mov eax, 0
+    57 00000040 88D8                            mov al, bl  ;pun rezultatul in eax pentru a fi returnat in subprogramul c
+    58 00000042 89EC                             mov esp, ebp
+    59 00000044 5D                              pop ebp
+    60                                          
+    61 00000045 C3                              ret

@@ -1,0 +1,2 @@
+| Bodystyle: Sedan | Enginetype: Turbo | Fuel: gasoline | Baseprice: 11000.000000 | Price: 11001
+| Bodystyle: Convertible | Enginetype: Electric | Fuel: diesel | Baseprice: 12000.000000 | Autonomy: 200 | Price: 12002

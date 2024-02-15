@@ -1,0 +1,4 @@
+Allergy | Sinusitis | fever,sore throat
+Allergy | Hives | red skin
+Heart | Heart Attack | chest pain, shortness of breath
+Heart | Heart Failure | shortness of breath, fatigue

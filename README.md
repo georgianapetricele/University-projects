@@ -12,3 +12,4 @@
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Databases">Databases</a>
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%203%20/Computer%20Networks">Computer Networks</a>
    - <a href="Semester 3 /Functional and Logic Programming">Logical and Functional Programming</a>
+   - <a href="Semester 3 /Probability and Statistics">Probability and Statistics</a>

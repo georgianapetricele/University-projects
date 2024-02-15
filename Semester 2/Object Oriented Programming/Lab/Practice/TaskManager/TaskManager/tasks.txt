@@ -1,3 +1,0 @@
-Solve oop | 120 | 3
-Eat | 30 | 2
-Sleep | 90 | 1

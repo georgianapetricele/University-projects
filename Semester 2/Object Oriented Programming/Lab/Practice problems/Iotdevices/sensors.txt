@@ -1,0 +1,3 @@
+Anonimus HumiditySensor 20.000000
+Emag TemperatureSensor 10.000000 10.000000 10.000000
+Producer432874 SmokeSensor 30.000000

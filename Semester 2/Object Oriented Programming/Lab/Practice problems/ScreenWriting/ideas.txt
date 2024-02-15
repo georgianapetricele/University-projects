@@ -1,0 +1,3 @@
+scene1,accepted,Ana,1
+scene2,proposed,Mary,2
+scene3,proposed,Dave,3

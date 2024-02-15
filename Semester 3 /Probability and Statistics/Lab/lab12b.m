@@ -1,0 +1,16 @@
+x=linspace(0,3);
+y1=(x.^5)/10;
+y2=x.*sin(x);
+y3=cos(x);
+subplot(2,2,1);
+plot(x,y1,'g');
+title("Plot1")
+legend("power")
+subplot(2,2,2);
+plot(x,y2,'b--');
+title("Plot2")
+legend("sin")
+subplot(2,2,3);
+plot(x,y3,'c.');
+title("Plot3")
+legend("cos")

@@ -4,7 +4,7 @@
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%201/Fundamentals%20of%20programming">Fundamentals of programming</a>
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%201/ASC">Computers Systems Architecture</a>
    - <a href="Semester 1/Computational Logic">Computational Logic</a>
-   - Calculus
+   - Mathematical Analysis
    - Algebra
 - Semester 2
    - <a href="https://github.com/georgianapetricele/University-projects/tree/main/Semester%202/Object%20Oriented%20Programming">Object Oriented Programming</a>

@@ -1,0 +1,6 @@
+si aici sa scriem
+diferite cuvinte
+si apoi sa le
+procesam
+cu awk
+

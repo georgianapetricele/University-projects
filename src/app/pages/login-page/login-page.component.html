@@ -1,0 +1,16 @@
+<div class="container-main container-login">
+    <div class="wrap-main wrap-login">
+        <span class="title-main">
+            Login
+          </span>
+        <div>
+            <label for="username" class="form-label">Username:</label>
+            <input type="text" class="form-control" placeholder="Enter username" name="username" #username>
+        </div>
+        <div class="mb-3 mt-3">
+            <label for="password" class="form-label">Password:</label>
+            <input type="text" class="form-control" placeholder="Enter password" name="password" #password>
+        </div>
+            <button class="button btn-info" (click)="handleLogin(username.value,password.value)">Login</button>
+        </div>
+    </div>

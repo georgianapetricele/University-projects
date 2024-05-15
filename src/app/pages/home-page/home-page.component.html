@@ -1,0 +1,52 @@
+<div class="container-main container-login">
+    <div class="wrap-main wrap-login">
+      <span class="title-main">
+          Log Reports
+      </span>
+      <table class='table'>
+        <tr>
+          <th>LogId</th>
+          <th>Type</th>
+          <th>Severity</th>
+          <th>Date</th>
+          <th>Message</th>
+          <th>UserId</th>
+        </tr>
+        <tr *ngFor="let log of logs">
+          <td>{{log.id}}</td>
+          <td>{{log.type}}</td>
+          <td>{{log.severity}}</td>
+          <td>{{log.date}}</td>
+          <td>{{log.logtext}}</td>
+          <td>{{log.user}}</td>
+        </tr>
+      </table>
+      <nav class="pagination" id = "page-navigation">
+        <button class="pages btn-info" *ngIf = "showPrevious" id = "prev-button" (click) = "goToPreviousPage()">Previous</button>
+        <button class="pages btn-info" *ngIf = "showNext" id = "next-button" (click) = "goToNextPage()">Next</button>
+      </nav>
+      <div class="wrap-button">
+          <button class="button btn-info" (click)="loadTable()">Load logs</button>
+      </div>
+      <div class="wrap-button">
+          <a routerLink="/addPage" routerLinkActive="active">
+          <button class="button btn-info">Add Log</button>
+        </a>
+      </div>
+      <div class="wrap-button">
+        <a routerLink="/deletePage" routerLinkActive="active">
+          <button class="button btn-info">Delete Log</button>
+        </a>
+      </div>
+      <div class="wrap-button">
+        <a routerLink="/filterPage" routerLinkActive="active">
+          <button class="button btn-info">Filter Logs</button>
+        </a>
+      </div>
+      <div class="wrap-button">
+        <a routerLink="" routerLinkActive="active">
+          <button class="button btn-info" (click)="removeUser()">Log out</button>
+        </a>
+      </div>
+    </div>
+  </div>

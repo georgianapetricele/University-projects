@@ -1,0 +1,23 @@
+N = start stmt_list statement simple_stmt struct_stmt declaration_stmt array_decl_stmt type assign_stmt expression int_expression term factor string_expression io_stmt if_stmt condition relation while_stmt for_stmt
+E = + - * / < <= = >= > == % ! != [ ] { } " " ' ' ; ( ) int string char array type identifier constant string_constant if else while for true false read print
+S = start
+P =
+stmt_list -> statement | statement stmt_list
+statement -> simple_stmt ; | struct_stmt
+simple_stmt -> declaration_stmt | array_decl_stmt | assign_stmt | io_stmt
+struct_stmt -> if_stmt | while_stmt | for_stmt
+declaration_stmt -> type identifier ; | type identifier = expression ;
+array_decl_stmt -> array type [ constant ] identifier ;
+type -> int | char | string
+assign_stmt -> identifier = expression ;
+expression -> int_expression | string_expression
+int_expression -> term + int_expression | term - int_expression | term
+term -> factor * term | factor / term | factor % term | factor
+factor -> ( int_expression ) | identifier | constant
+string_expression -> string_constant | identifier | string_expression + string_expression
+io_stmt -> read ( identifier ) | print ( identifier | constant | expression )
+if_stmt -> if ( condition ) { stmt_list } else { stmt_list }
+condition -> expression relation expression
+relation -> < | <= | = | >= | > | !=
+while_stmt -> while ( condition ) { stmt_list }
+for_stmt -> for ( assign_stmt ; condition ; assign_stmt ) { stmt_list }

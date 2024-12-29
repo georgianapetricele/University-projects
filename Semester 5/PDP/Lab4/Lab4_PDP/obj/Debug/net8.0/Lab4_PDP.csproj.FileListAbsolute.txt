@@ -1,0 +1,14 @@
+D:\PPD\Lab4_PDP\Lab4_PDP\bin\Debug\net8.0\Lab4_PDP.exe
+D:\PPD\Lab4_PDP\Lab4_PDP\bin\Debug\net8.0\Lab4_PDP.deps.json
+D:\PPD\Lab4_PDP\Lab4_PDP\bin\Debug\net8.0\Lab4_PDP.runtimeconfig.json
+D:\PPD\Lab4_PDP\Lab4_PDP\bin\Debug\net8.0\Lab4_PDP.dll
+D:\PPD\Lab4_PDP\Lab4_PDP\bin\Debug\net8.0\Lab4_PDP.pdb
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.AssemblyInfoInputs.cache
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.AssemblyInfo.cs
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.csproj.CoreCompileInputs.cache
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.dll
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\refint\Lab4_PDP.dll
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.pdb
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\Lab4_PDP.genruntimeconfig.cache
+D:\PPD\Lab4_PDP\Lab4_PDP\obj\Debug\net8.0\ref\Lab4_PDP.dll

@@ -1,0 +1,35 @@
+
+
+// RULES:
+// comments are marked with //
+// statements don't end with ;
+// statements are separated with a newline
+// variables types: int for integer numbers,char for a character,string for string values,float for float numbers
+// relational operators: ==, <=, >=, >, <
+// logical operators: && for and , || for or, ! for not
+// arithmetic operators: +, - , ==, %, *
+// reading from console: readInt, readChar,readString, readFloat - for reading integers,chars,strings and floats
+// printing to the console: printInt,printChar,printString, printFloat - for printing integers,chars,strings and floats
+// statements: Conditional statements:  if(condition) {expression} else {expression}
+				       if(condition) {expression}
+		Loop statements: while(condition) { expression }
+	                         for ( startStatement; endCondition; incrementation) {expression}
+
+
+// Verify if a number is prime
+
+int n
+n = readInt()
+int isPrime = 1
+int d = 2
+while (isPrime == 1 && d * d <= n) {
+	if (n % d == 0) {
+		isPrime = 0
+	}
+	d = d + 1
+}
+if (isPrime == 1) {
+	printString("Number is prime")
+} else {
+	printString("Number is not prime")
+}

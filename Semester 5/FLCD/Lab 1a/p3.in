@@ -1,0 +1,14 @@
+
+// compute the concatenation of n characters
+
+int n
+n = readInt()
+string finalString = ""
+int i,x
+for(i=1;i<=n;i++)
+{
+	x = readChar()
+	finalString += x
+	i = i+1
+}
+printString(finalString)

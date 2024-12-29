@@ -1,0 +1,18 @@
+
+// Verify if a number is prime
+
+int n
+n = read-Int()   // ERROR: read-Int() is not a valid statement for reading an integer value
+int isPrime = 1
+int d = 2a  // ERROR: 2a is not a valid integer value
+while (isPrime == 1 && d * d <= n) {
+	if (n % d == 0) {
+		isPrime = 0
+	}
+	d = d + 1
+}
+if (isPrime == 1) {
+	printString("Number is prime")
+} else {
+	printString("Number is not prime")
+}

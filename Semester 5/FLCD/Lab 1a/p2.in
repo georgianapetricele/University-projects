@@ -1,0 +1,15 @@
+
+// Find the maximum of 3 numbers
+
+int a,b,c
+a = readInt()
+b = readInt()
+c = readInt()
+int maxi = a
+if (b > maxi) {
+	maxi = b
+}
+if (c > maxi) {
+	maxi = c
+}
+printInt(maxi)

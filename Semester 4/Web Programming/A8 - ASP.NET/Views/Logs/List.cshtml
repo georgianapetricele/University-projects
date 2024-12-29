@@ -1,0 +1,68 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<lab10_webbb.Models.Entities.LogReport>
+
+<h1>All Log Reports</h1>
+
+
+<form method="get" asp-controller="Logs" asp-action="List">
+    <div class="form-group">
+        <label for="typeFilter">Type:</label>
+        <input type="text" id="typeFilter" name="typeFilter" value="@ViewBag.TypeFilter" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="severityFilter">Severity:</label>
+        <input type="text" id="severityFilter" name="severityFilter" value="@ViewBag.SeverityFilter" class="form-control" />
+    </div>
+        <button type="submit" class="btn btn-primary">Filter</button>
+        <a class="btn btn-secondary" asp-controller="Logs" asp-action="List">Clear</a>
+   
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Type</th>
+            <th>Severity</th>
+            <th>Date Created</th>
+            <th>User</th>
+            <th>Message</th>
+        </tr>
+    </thead>
+    <tbody>
+		@foreach (var log in Model)
+		{
+			<tr>
+				<td>@log.Id</td>
+				<td>@log.Type</td>
+				<td>@log.Severity</td>
+				<td>@log.DateCreated</td>
+                <td>@log.UserId</td>
+				<td>@log.Message</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Logs" asp-action="Edit" asp-route-id="@log.Id">Edit</a>
+                </td>
+			</tr>
+		}
+</table>
+
+
+<div class="pagination">
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a class="btn btn-primary" asp-controller="Logs" asp-action="List" asp-route-page="@(ViewBag.CurrentPage - 1)">Previous</a>
+    }
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a class="btn @(i == ViewBag.CurrentPage ? "btn-primary" : "btn-light")" asp-controller="Logs" asp-action="List" asp-route-page="@i">@i</a>
+    }
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a class="btn btn-primary" asp-controller="Logs" asp-action="List" asp-route-page="@(ViewBag.CurrentPage + 1)">Next</a>
+    }
+</div>

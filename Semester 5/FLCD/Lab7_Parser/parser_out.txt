@@ -1,0 +1,10 @@
+(q, 0, [], [S])
+|--- expand
+(q, 0, [(S, 0)], [a, A])
+|--- momentary insuccess
+(b, 0, [(S, 0)], [a, A])
+|--- another try
+(b, 0, [], [])
+|--- another try
+(e, 0, [], [])
+|--- error

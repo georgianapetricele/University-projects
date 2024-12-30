@@ -23,8 +23,8 @@
    - <a href="Semester 4/Web Programming">Web Programming</a>
 ### Third year
 - Semester 5
-   - <a href="Semester 5/Mobile Applications">Mobile Applications</a>
    - <a href="Semester 5/FLCD">Formal Languages and Compiler Designs</a>
    - <a href="Semester 5/PDP">Parallel and Distributed Programming</a>
+   - <a href="Semester 5/Mobile Applications">Mobile Applications</a>
    - <a href="Semester 5/PKC">Public Key Cryptography</a>
    

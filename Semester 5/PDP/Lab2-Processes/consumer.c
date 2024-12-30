@@ -18,6 +18,7 @@ int main() {
         exit(1);
     }
 
+    
     // Read each product from the FIFO and accumulate the result
     for (int i = 0; i < VECTOR_SIZE; i++) {
         if (read(fd, &product, sizeof(product)) == -1) {
